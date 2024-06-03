@@ -23,14 +23,24 @@ namespace ProductApp
 
         public void IncreaseStock(int amount)
         {
+            if (Stock + amount > 600000)
+            {
+                throw new ArgumentOutOfRangeException("amount", "Stock cannot exceed 600000.");
+            }
+
             Stock += amount;
-            Console.WriteLine("Stock Increased Successfully with" + Stock);
+            Console.WriteLine("Stock Increased Successfully to " + Stock);
         }
 
         public void DecreaseStock(int amount)
         {
+            if (Stock - amount < 6)
+            {
+                throw new ArgumentOutOfRangeException("amount", "Stock cannot be less than 6.");
+            }
+
             Stock -= amount;
-            Console.WriteLine("Stock Decreased Successfully with" + Stock);
+            Console.WriteLine("Stock Decreased Successfully to " + Stock);
         }
     }
 

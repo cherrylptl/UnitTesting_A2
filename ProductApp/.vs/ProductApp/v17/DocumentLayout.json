@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mobile Solution Development\\Sem 2\\Software Quality\\A2\\UnitTesting_A2\\ProductApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9402F22-8DF7-4CB1-96F3-FF7ECEFB1BC1}|ProductAppTest\\ProductAppTest.csproj|C:\\Mobile Solution Development\\Sem 2\\Software Quality\\A2\\UnitTesting_A2\\ProductApp\\productapptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9402F22-8DF7-4CB1-96F3-FF7ECEFB1BC1}|ProductAppTest\\ProductAppTest.csproj|solutionrelative:productapptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B67AE7A-DE1A-4753-92D6-57AE67D32A89}|ProductApp\\ProductApp.csproj|c:\\mobile solution development\\sem 2\\software quality\\a2\\unittesting_a2\\productapp\\productapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B67AE7A-DE1A-4753-92D6-57AE67D32A89}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Mobile Solution Development\\Sem 2\\Software Quality\\A2\\UnitTesting_A2\\ProductApp\\ProductApp\\Product.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Product.cs",
+              "ToolTip": "C:\\Mobile Solution Development\\Sem 2\\Software Quality\\A2\\UnitTesting_A2\\ProductApp\\ProductApp\\Product.cs",
+              "RelativeToolTip": "ProductApp\\Product.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAcwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:32:01.422Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Mobile Solution Development\\Sem 2\\Software Quality\\A2\\UnitTesting_A2\\ProductApp\\ProductAppTest\\Program.cs",
+              "RelativeDocumentMoniker": "ProductAppTest\\Program.cs",
+              "ToolTip": "C:\\Mobile Solution Development\\Sem 2\\Software Quality\\A2\\UnitTesting_A2\\ProductApp\\ProductAppTest\\Program.cs",
+              "RelativeToolTip": "ProductAppTest\\Program.cs",
+              "ViewState": "AQIAAAgBAAAAAAAAAAAiwCQBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:05:31.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
